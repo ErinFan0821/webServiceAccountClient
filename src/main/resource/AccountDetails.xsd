@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns="http://webservices.samples.blog.com"
-           targetNamespace="http://webservices.samples.blog.com"
+           xmlns="http://erinfan.webservices.com"
+           targetNamespace="http://erinfan.webservices.com"
            elementFormDefault="qualified"
            attributeFormDefault="unqualified">
     <xs:element name="Account" type="Account"/>

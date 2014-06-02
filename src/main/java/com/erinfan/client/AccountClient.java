@@ -1,4 +1,4 @@
-package com.erinfan.webservice;
+package com.erinfan.client;
 
 import com.erinfan.service.AccountDetailsRequest;
 import com.erinfan.service.AccountDetailsResponse;
